@@ -132,6 +132,7 @@ Community list of startups working with AI for audio and music tech
 - [Speechmatics](https://www.speechmatics.com/) - Autonomous Speech Recognition technology that understands every voice.
 - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
 - [Picovoice](https://picovoice.ai/) - End-to-end Edge Voice AI, On-device voice recognition
+- [Scriptoman](https://scriptoman.ai) - convert audio to text in 120+ languges
 
 ## Synthesis (TTS)
 
@@ -151,7 +152,7 @@ Community list of startups working with AI for audio and music tech
 - [Voiseed](https://voiseed.com/)- AI-based Voice Engine is able to mimic the emotions and prosody of human speech.
 - [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
 - [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument.
-
+- [voicecomposer] (https://voicecomposer.com) - text to speech with 800+ voices
 ## Enhancement & Manipulation
 
 - [Meaning](https://www.meaning.team/) - Streaming real-time voice and accent conversion.
